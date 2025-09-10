@@ -1,73 +1,49 @@
-# Welcome to your Lovable project
+# Restorely
 
-## Project info
+## Project Overview
 
-**URL**: https://lovable.dev/projects/4cd0a3d0-1d47-4cf9-9c37-bc036078ea59
+Restorely is a modern, professional platform for smart device repair services. It connects users with certified technicians for doorstep repairs of smartphones, laptops, tablets, and more. Restorely leverages a seamless web experience, AI-powered diagnostics, and a curated network of service centers to deliver fast, reliable, and transparent device repair.
 
-## How can I edit this code?
+## Features
 
-There are several ways of editing your application.
+- Book device repairs online for smartphones, laptops, tablets, and more
+- AI-powered diagnostics and repair recommendations
+- Real-time tracking of repair status
+- Service center locator by city
+- Secure user authentication and dashboard
+- Modern, responsive UI with shadcn-ui and Tailwind CSS
 
-**Use Lovable**
+## Tech Stack
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/4cd0a3d0-1d47-4cf9-9c37-bc036078ea59) and start prompting.
+- **Frontend:** React, TypeScript, Vite
+- **UI:** shadcn-ui, Tailwind CSS
+- **State Management:** React Context, React Query
+- **Other:** PostCSS, ESLint
 
-Changes made via Lovable will be committed automatically to this repo.
+## Installation
 
-**Use your preferred IDE**
-
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
-
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
-
-Follow these steps:
+Clone the repository and install dependencies:
 
 ```sh
-# Step 1: Clone the repository using the project's Git URL.
 git clone <YOUR_GIT_URL>
+cd restorely
+npm install
+```
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+## Usage
 
-# Step 3: Install the necessary dependencies.
-npm i
+Start the development server:
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
+```sh
 npm run dev
 ```
 
-**Edit a file directly in GitHub**
+Open [http://localhost:8080](http://localhost:8080) in your browser to view the app.
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+## License
 
-**Use GitHub Codespaces**
+This project is licensed under the MIT License.
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
+---
+**Author:** Jash
 - Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/4cd0a3d0-1d47-4cf9-9c37-bc036078ea59) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
