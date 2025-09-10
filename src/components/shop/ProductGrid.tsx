@@ -25,7 +25,7 @@ const mockProducts: Product[] = [
     name: 'iPhone 15 Pro Lightning Cable',
     price: 29.99,
     originalPrice: 39.99,
-    image: '/placeholder.svg',
+  image: '',
     rating: 4.8,
     reviews: 1250,
     category: 'Cables',

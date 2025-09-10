@@ -23,7 +23,7 @@ const mockTechnicians: Technician[] = [
   {
     id: '1',
     name: 'John Martinez',
-    photo: '/placeholder.svg',
+  photo: '',
     location: 'New York, NY',
     rating: 4.9,
     reviews: 1250,
