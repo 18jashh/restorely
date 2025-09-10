@@ -1,0 +1,72 @@
+
+{
+  "Apple": {
+    "phones": [
+      { "id": "iphone-15-pro", "name": "iPhone 15 Pro", "model": "A3101", "year": 2023 },
+      { "id": "iphone-15", "name": "iPhone 15", "model": "A3102", "year": 2023 },
+      { "id": "iphone-14-pro", "name": "iPhone 14 Pro", "model": "A2890", "year": 2022 },
+      { "id": "iphone-14", "name": "iPhone 14", "model": "A2649", "year": 2022 },
+      { "id": "iphone-13", "name": "iPhone 13", "model": "A2482", "year": 2021 }
+    ],
+    "laptops": [
+      { "id": "macbook-pro-16-m3", "name": "MacBook Pro 16\" (M3)", "model": "A2780", "year": 2023 },
+      { "id": "macbook-air-15-m2", "name": "MacBook Air 15\" (M2)", "model": "A2941", "year": 2023 },
+      { "id": "macbook-pro-14-m3", "name": "MacBook Pro 14\" (M3)", "model": "A2779", "year": 2023 },
+      { "id": "macbook-air-13-m2", "name": "MacBook Air 13\" (M2)", "model": "A2681", "year": 2022 }
+    ],
+    "tablets": [
+      { "id": "ipad-pro-12-9-m2", "name": "iPad Pro 12.9\" (M2)", "model": "A2436", "year": 2022 },
+      { "id": "ipad-air-5", "name": "iPad Air (5th gen)", "model": "A2588", "year": 2022 },
+      { "id": "ipad-10", "name": "iPad (10th gen)", "model": "A2696", "year": 2022 }
+    ]
+  },
+  "Samsung": {
+    "phones": [
+      { "id": "galaxy-s24-ultra", "name": "Galaxy S24 Ultra", "model": "SM-S928", "year": 2024 },
+      { "id": "galaxy-s24-plus", "name": "Galaxy S24+", "model": "SM-S926", "year": 2024 },
+      { "id": "galaxy-s24", "name": "Galaxy S24", "model": "SM-S921", "year": 2024 },
+      { "id": "galaxy-s23-ultra", "name": "Galaxy S23 Ultra", "model": "SM-S918", "year": 2023 },
+      { "id": "galaxy-z-fold-5", "name": "Galaxy Z Fold 5", "model": "SM-F946", "year": 2023 }
+    ],
+    "laptops": [
+      { "id": "galaxy-book-3-pro", "name": "Galaxy Book3 Pro", "model": "NP960XFG", "year": 2023 },
+      { "id": "galaxy-book-3", "name": "Galaxy Book3", "model": "NP750XFG", "year": 2023 },
+      { "id": "galaxy-book-2-pro", "name": "Galaxy Book2 Pro", "model": "NP950XDB", "year": 2022 }
+    ],
+    "tablets": [
+      { "id": "galaxy-tab-s9-ultra", "name": "Galaxy Tab S9 Ultra", "model": "SM-X916", "year": 2023 },
+      { "id": "galaxy-tab-s9-plus", "name": "Galaxy Tab S9+", "model": "SM-X816", "year": 2023 },
+      { "id": "galaxy-tab-s9", "name": "Galaxy Tab S9", "model": "SM-X716", "year": 2023 }
+    ]
+  },
+  "Google": {
+    "phones": [
+      { "id": "pixel-8-pro", "name": "Pixel 8 Pro", "model": "GC3VE", "year": 2023 },
+      { "id": "pixel-8", "name": "Pixel 8", "model": "GKV4X", "year": 2023 },
+      { "id": "pixel-7a", "name": "Pixel 7a", "model": "G82U8", "year": 2023 },
+      { "id": "pixel-7-pro", "name": "Pixel 7 Pro", "model": "GE2AE", "year": 2022 }
+    ]
+  },
+  "OnePlus": {
+    "phones": [
+      { "id": "oneplus-12", "name": "OnePlus 12", "model": "CPH2573", "year": 2024 },
+      { "id": "oneplus-11", "name": "OnePlus 11", "model": "CPH2449", "year": 2023 },
+      { "id": "oneplus-nord-3", "name": "OnePlus Nord 3", "model": "CPH2493", "year": 2023 }
+    ]
+  },
+  "Dell": {
+    "laptops": [
+      { "id": "xps-13-plus", "name": "XPS 13 Plus", "model": "9320", "year": 2023 },
+      { "id": "xps-15", "name": "XPS 15", "model": "9530", "year": 2023 },
+      { "id": "inspiron-16", "name": "Inspiron 16", "model": "7630", "year": 2023 },
+      { "id": "alienware-m18", "name": "Alienware m18", "model": "AWm18", "year": 2023 }
+    ]
+  },
+  "HP": {
+    "laptops": [
+      { "id": "spectre-x360", "name": "Spectre x360 14", "model": "14-ef2013dx", "year": 2023 },
+      { "id": "envy-x360", "name": "ENVY x360 15", "model": "15-fe0013dx", "year": 2023 },
+      { "id": "pavilion-15", "name": "Pavilion 15", "model": "15-eg3001TX", "year": 2023 }
+    ]
+  }
+}
